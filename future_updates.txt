@@ -1,0 +1,3 @@
+ -> Wickets
+ -> Innings (5 over, 10 over, 20 over, 50 over, custom)
+ -> Players
